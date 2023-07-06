@@ -1,0 +1,1 @@
+This JS file show "Hello World" mensage in window
